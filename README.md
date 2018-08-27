@@ -7,9 +7,9 @@
 * `lolcat` - to make the results even more amazing.
 
 
-## How to:
+## Usage:
 
-```
+```bash
 ./download_korpogadka.sh  # download list of fortunes from korpogadka.pl
 
 ./update_cows.sh  # update list of motivational speakers available in cowsay
