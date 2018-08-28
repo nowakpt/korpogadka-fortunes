@@ -12,8 +12,6 @@
 ```bash
 ./download_korpogadka.sh  # download list of fortunes from korpogadka.pl
 
-./update_cows.sh  # update list of motivational speakers available in cowsay
-
 ./random_fortune.sh  # enjoy these beautiful motivational speeches
 
 ```
