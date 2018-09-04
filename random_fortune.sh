@@ -2,7 +2,7 @@
 
 INPUT_FILES="fortunes*.txt"
 
-INTERVAL=8  # seconds
+INTERVAL=12  # seconds
 
 COWS=$(cowsay -l | tail -n +2)
 FORTUNES=$(cat $INPUT_FILES)
